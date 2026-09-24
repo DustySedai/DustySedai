@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Juan Manuel 👋
 
-<!--
-**DustySedai/DustySedai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student focused on **Cybersecurity and Networking**.
 
-Here are some ideas to get you started:
+I'm currently learning and building hands-on experience in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🔐 Cybersecurity.
+* 🌐 Networking.
+* 🐍 Python.
+* 💻 Web Development.
+* 🐧 Linux.
+* 🗄️ Databases & SQL.
+* 🐳 Docker & Homelabing.
+
+I enjoy learning by building projects, experimenting with different technologies, and developing my practical IT skills.
+
+### 🛠️ Technologies & Tools
+
+`Python` `Linux` `Git` `GitHub` `Docker` `SQL` `HTML` `CSS` `JavaScript`
+
+### 📚 Currently Learning
+
+* Cybersecurity fundamentals.
+* Network security.
+* Linux & system administration.
+* Web security.
+* Security tools and practical labs.
+
+### 🎯 Goal
+
+To develop strong practical skills in **Cybersecurity, Networking, and IT**, while continuously building and documenting projects.
+
+---
+
+📌 **Journey Before Destination.**
